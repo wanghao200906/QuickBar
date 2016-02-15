@@ -6,4 +6,5 @@
 会玩
 瞎玩
 hello
+新的更新
 ![Sample AdLoopView Demo](https://raw.githubusercontent.com/wanghao200906/QuickBar/master/quickindex/quickindex.gif)
