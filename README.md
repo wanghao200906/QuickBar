@@ -8,4 +8,5 @@
 hello
 新的更新
 123
+123
 ![Sample AdLoopView Demo](https://raw.githubusercontent.com/wanghao200906/QuickBar/master/quickindex/quickindex.gif)
