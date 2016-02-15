@@ -4,5 +4,6 @@
   支持中文 和 英文 索引 
 
 会玩
+瞎玩
 
 ![Sample AdLoopView Demo](https://raw.githubusercontent.com/wanghao200906/QuickBar/master/quickindex/quickindex.gif)
